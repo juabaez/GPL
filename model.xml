@@ -16,5 +16,11 @@
 		<constraints/>
 		<calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
 		<comments/>
-		<featureOrder userDefined="false"/>
+		<featureOrder userDefined="true">
+			<feature name="Hello"/>
+			<feature name="Guys"/>
+			<feature name="Beautiful"/>
+			<feature name="Wonderful"/>
+			<feature name="World"/>
+		</featureOrder>
 	</featureModel>
